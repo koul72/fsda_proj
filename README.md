@@ -12,3 +12,5 @@ git commit -m "this is my commit"
 
 
 
+git pull.......
+
